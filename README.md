@@ -1,4 +1,6 @@
-# Hello World Google Cloud Endpoints Frameworks for App Engine
+# Hello World Google Cloud Endpoints Frameworks for App Engine with Scala
+
+This is a migration to Scala from the hello-endpoints-archetype used in the java documentation for Google endpoints framework at https://cloud.google.com/endpoints/docs/frameworks/java/using-maven. The rest of this document is as provided by the archetype.
 
 This generated sample provides an example of a [migration][7] from the prior
 version of [Google Cloud Endpoints Frameworks][3] to new
